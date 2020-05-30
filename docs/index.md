@@ -3,5 +3,6 @@
 # nbpages-testing-public
 
 ### [Table of Contents](https://ndcbe.github.io/nbpages-testing-public/toc.html)
-- [0.1 Testing nbpages](https://ndcbe.github.io/nbpages-testing-public/00.01-Testing-nbpages.html)
+
+### [Chapter 1.0 Testing nbpages](https://ndcbe.github.io/nbpages-testing-public/01.00-Testing-nbpages.html)
 
